@@ -1,0 +1,53 @@
+<table border="1">
+<tr>
+<th>COD</th>
+<th>DESCRIÇÃO</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td> 001</td>
+<td> </td>
+<td>Frango</td>
+<td>R$10,00</td>
+</tr>
+<tr>
+<td> 002</td>
+<td> </td>
+<td>Frango</td>
+<td>R$20,00</td>
+</tr>
+<tr>
+<td> 001</td>
+<td> </td>
+<td>Pato</td>
+<td>R$16,00</td>
+</tr>
+<tr>
+<td> 003</td>
+<td> </td>
+<td>Frango</td>
+<td>R$30,00</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="2"align="center">Referencias de Códigos</td>
+ <td>
+         <table  border="1" colspan="2">
+<tr>
+<th>COD</th>
+<th>FUNÇÃO</th>
+</tr>
+            <tr align="center" colspan="2">
+               <td> 001 </td> <td> ASSADO </td>
+            </tr>
+
+            <tr align="center">
+               <td> 002 </td> <td> GRELHADO </td>
+            </tr>
+
+            <tr align="center">
+               <td> 003 </td> <td>  AO MOLHO </td>
+            </tr>
+         </table>
+      </td>
+</table>
